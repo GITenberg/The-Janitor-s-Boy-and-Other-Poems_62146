@@ -1,5 +1,5 @@
 _repo: The-Janitor-s-Boy-and-Other-Poems_62146
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Benét, William Rose
@@ -20,6 +20,9 @@ contributor:
     birthdate: 1889
     gutenberg_agent_id: '51793'
     url: http://www.gutenberg.org/2009/agents/51793
+covers:
+- cover_type: archival
+  image_path: 62146-h/images/cover.jpg
 creator:
   author:
     agent_name: Crane, Nathalia
@@ -30,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51792
     wikipedia: https://en.wikipedia.org/wiki/Nathalia_Crane
 description: A collection of poems written by the author at the age of ten.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62146#The-Janitor-s-Boy-and-Other-Poems
 gutenberg_issued: '2020-05-16'
 gutenberg_type: Text
 identifiers:
