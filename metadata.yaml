@@ -1,0 +1,46 @@
+_repo: The-Janitor-s-Boy-and-Other-Poems_62146
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Benét, William Rose
+    alias: Benet, William Rose
+    birthdate: 1886
+    deathdate: 1950
+    gutenberg_agent_id: '2108'
+    url: http://www.gutenberg.org/2009/agents/2108
+    wikipedia: https://en.wikipedia.org/wiki/William_Rose_Benét
+  contributors:
+  - agent_name: Johnson, Nunnally
+    birthdate: 1897
+    deathdate: 1977
+    gutenberg_agent_id: '51794'
+    url: http://www.gutenberg.org/2009/agents/51794
+    wikipedia: https://en.wikipedia.org/wiki/Nunnally_Johnson
+  - agent_name: Leamy, Edmund Stanislaus
+    birthdate: 1889
+    gutenberg_agent_id: '51793'
+    url: http://www.gutenberg.org/2009/agents/51793
+creator:
+  author:
+    agent_name: Crane, Nathalia
+    alias: Crane, Nathalia Clara Ruth
+    birthdate: 1913
+    deathdate: 1998
+    gutenberg_agent_id: '51792'
+    url: http://www.gutenberg.org/2009/agents/51792
+    wikipedia: https://en.wikipedia.org/wiki/Nathalia_Crane
+description: A collection of poems written by the author at the age of ten.
+gutenberg_issued: '2020-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 20th century'
+- !lcc 'PS'
+- GITenberg
+title: The Janitor's Boy, and Other Poems
+url: http://www.gutenberg.org/ebooks/62146
